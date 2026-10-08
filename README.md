@@ -1,46 +1,35 @@
-###'> Hello, World!' 👋
+Hey, I'm Sparta513 👋
 
-███████╗██████╗  █████╗ ██████╗ ████████╗ █████╗  ██╗██████╗
-██╔════╝██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗███║██╔══██╗
-███████╗██████╔╝███████║██████╔╝   ██║   ███████║╚██║██████╔╝
-╚════██║██╔═══╝ ██╔══██║██╔══██╗   ██║   ██╔══██║ ██║██╔═══╝
-███████║██║     ██║  ██║██║  ██║   ██║   ██║  ██║ ██║██║
-╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═╝╚═╝
+IT Student | Aspiring Developer | Tech Enthusiast 🇰🇪
 
-"whoami"
+I'm learning software development, exploring Linux, and building practical projects as I grow my skills.
 
-💻 IT Student | Aspiring Developer | Tech Enthusiast
-📍 Kenya 🇰🇪
+🛠️ Technologies & Tools
 
-I'm an IT student exploring the world of software development, Linux, and computer systems.
+- Web: HTML, CSS
+- Programming: C, C++
+- Tools: Git, GitHub, Termux
+- Interests: Linux, computer systems, frontend development
 
-I enjoy learning by doing — writing code, troubleshooting problems, experimenting with tools, and figuring out how things work under the hood.
+🚀 Projects
 
-$ whoami
-Sparta513
+I'm working on building practical projects and improving my coding skills.
 
-$ current_mission
-Learn -> Build -> Debug -> Improve -> Repeat
+- Responsive Website — Practising HTML and CSS.
+- Programming Exercises — Strengthening my programming fundamentals.
+- Linux Experiments — Learning through hands-on exploration.
 
-$ status
-Always learning. Always building.
+📚 Currently Learning
+
+- JavaScript
+- Responsive web design
+- Git and GitHub workflows
+- Programming fundamentals
+
+🎯 My Goal
+
+Learn by building, improve through debugging, and turn what I learn into useful software.
 
 ---
 
-"> tech_stack"
-
-Languages & Web Development
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"C" (https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-Tools & Environment
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-"Termux" (https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white)
-
-Currently developing my skills in frontend development, programming fundamentals, and working with Linux environments.
+Still learning. Still building. One commit at a time.

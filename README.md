@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hey, I'm Sparta!
 
-<!--
-**sparta513/sparta513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Developer | IT Student | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm an IT student from Kenya learning how to turn ideas into working software, one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring frontend development and building my coding skills through hands-on projects.
+
+🚀 What I'm Learning
+
+- 🌐 HTML & CSS
+- ⚡ JavaScript — next on my learning journey
+- 💻 C and C++
+- 🛠️ Git & GitHub
+
+🔨 What I'm Building
+
+- 🌍 My first responsive websites
+- 🧪 Small coding experiments and practice projects
+- 📚 Projects that help me learn by doing
+
+🎯 My Goals
+
+- Build responsive, user-friendly websites
+- Get better at writing clean, maintainable code
+- Contribute to open-source projects
+- Build a portfolio that shows my progress
+
+🧰 Tools I Use
+
+- Acode
+- Termux
+- Git & GitHub
+
+📊 My Developer Journey
+
+I'm not here to pretend I know everything. I'm here to learn, build, break things, fix them, and keep improving.
+
+One commit at a time. One project at a time. 🚀
+
+📍 Kenya 🇰🇪
